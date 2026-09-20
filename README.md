@@ -4,7 +4,7 @@
 
 The dataset is hosted on HKU SharePoint and can be downloaded from the following link:
 
-[Download the CIVL 7023 Project 1 Dataset](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/u3013967_connect_hku_hk/IQCppIux5W9-T5c9lVnNCmfNAUyeOWpWb2qHiX6LL59q0ck?e=vJYVbG)
+[Download the CIVL 7023 Project 1 Dataset](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/u3013967_connect_hku_hk/IgDb4HoD4JcFR5uEy-cozAC3AVAW6sICX7GrAHy_bzjwhvk?e=RWMOQJ)
 
 > **Access Requirement:**  
 > Please sign in using your **HKU university account** to access and download the dataset. If you are currently signed in with a personal Microsoft account, you may need to switch to your HKU account before opening the link.
